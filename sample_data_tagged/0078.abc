@@ -1,0 +1,19 @@
+%Mode:Cmin
+%Pitch:medium
+%Interval:easy
+%Rhythm:medium
+%Measures:19
+%end
+X:1
+T:78
+L:1/8
+M:4/4
+K:Cmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ G | e3/2d/4c/4 =B/B/c/d/ cz/c/ cc | =B>B cG _B/A/A/c/ c3/2B/4A/4 | AG z G/>c/ c=B z B/>d/ | %4
+ dc z c/e/ e2 d/c/_B/A/ | AG G^F G2 z2 | z2 z/ E/G/A/ B>G E>e | d2 z/ d/e/f/ B>c F>A | %8
+ AG z/ E/G/B/ e>c =A>c | c^F z =A/d/ d2 z2 | z B _Ae G2 ^F>G | G2 z G A>G Az/A/ | %12
+ =B2 z B cc z/ d/d/d/ |!f! e>c e>c =B2 z2 | z2 z!p! d e2 z c | =B_B AG AA z c | _d4- d=B/c/ cc | %17
+ c e2 =d cF GA | G>G G>G C2 z2 |] %19
+

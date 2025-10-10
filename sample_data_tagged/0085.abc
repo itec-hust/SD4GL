@@ -1,0 +1,16 @@
+%Mode:Eb
+%Pitch:easy
+%Interval:easy
+%Rhythm:easy
+%Measures:16
+%end
+X:1
+T:85
+L:1/8
+M:6/8
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ GGG A2 A | BAG FGA | BEA G2 F | E3- E2 z | GGG A2 A | BAG FGA | BEA G2 F | E3- EzB | BGB e2 B | %9
+ BGB B2 B | c2 B BAG | (G3 F2) z | GGG A2 A | BAG FGA | BEA G2 F | E3- E2 z |] %16
+

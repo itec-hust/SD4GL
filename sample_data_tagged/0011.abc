@@ -1,0 +1,17 @@
+%Mode:Cmin
+%Pitch:hard
+%Interval:hard
+%Rhythm:hard
+%Measures:24
+%end
+X:1
+T:11
+L:1/8
+M:6/8
+K:Cmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^中速 自豪地" B,Ec B3 | A/G/FG E3 | e2 d/e/ f2 e | ede B3 | c2 d e2 G | AGF c3 | BCD EG>F | F3- F3 | %8
+ EGc B3 | AGF/G/ E3 | GBe f2 e | c3- c3 | c2 d e2 G | AGF c3 | BAG FG>F | E3- E3 | Gce g3 | %17
+ f2 e c3 | cdf ec>d | B3- B3 | e3 G2 d | c>dc/B/ GFE | CEc B>GF/G/ | E3- E3 |] %24
+

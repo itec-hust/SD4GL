@@ -1,0 +1,17 @@
+%Mode:D
+%Pitch:easy
+%Interval:easy
+%Rhythm:hard
+%Measures:17
+%end
+X:1
+T:84
+L:1/8
+Q:1/4=80
+M:3/8
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ A/- | A/dcd/- | d/cBA/- | A/BAB/- | B/AGF/- | F/GAB/- | B/E/- E2 | A/dce/- | e/dcB/- | B/AGF/- | %10
+ F/EGF/- | F/ED z/ | z/ ED z/ | z/ ED z/ | ddd | e/d/d/c/d | d2 z/ |] %17
+

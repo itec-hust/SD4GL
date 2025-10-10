@@ -1,0 +1,16 @@
+%Mode:D
+%Pitch:medium
+%Interval:easy
+%Rhythm:medium
+%Measures:10
+%end
+X:1
+T:90
+L:1/8
+M:3/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ A3 G/F/ ED | B/^A/B/G/ F =A3- | A/A/G/F/ E3 G/E/ | C/D/E/G/ F3 d- | dB/G/ F A3 | %5
+ B/GA/- A/F/G/A/ GE | CD/E/ F/GE/ c>B | A/^G/A/=G/ B,3 ^B, | C/E/G- G/=B/_B AF | E/G/^B,/C/ D4 |] %10
+

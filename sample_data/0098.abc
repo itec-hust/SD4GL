@@ -1,0 +1,12 @@
+X:1
+T:98
+L:1/8
+Q:1/4=108
+M:6/8
+K:Dmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Allegretto" D/A,/D/E/F/A/ GE>^C | D/A,/D/E/F/B/ A/^G/ A2 | z/ (B/A/B/=G) z/ (A/^G/A/F) | %3
+ E>D^C/D/ E2 A, |!<(! D/A,/D/F/A/d/!<)! e^c>A | f>e(3d/e/f/ e3 | z/ (B/A/G/d) z/ (A/G/F/d) | %7
+ e>d(3^c/d/e/ d3 |] %8
+

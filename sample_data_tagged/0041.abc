@@ -1,0 +1,16 @@
+%Mode:Amin
+%Pitch:easy
+%Interval:easy
+%Rhythm:medium
+%Measures:16
+%end
+X:1
+T:41
+L:1/8
+M:2/4
+K:Amin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^中板" AA/A/ AA- | A>A d>^c | d e3- | e4 | ff/f/ ff | ed ^cd | d4- | d4 |: cc/c/ cc | c2 d2 | %10
+ e e2 c | BA A2 | cc/c/ cc | BA ^GA | A4- | A4 :| %16
+

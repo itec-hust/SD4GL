@@ -1,0 +1,18 @@
+%Mode:Fmin
+%Pitch:medium
+%Interval:medium
+%Rhythm:easy
+%Measures:14
+%end
+X:1
+T:14
+L:1/8
+Q:1/4=108
+M:5/4
+K:Fmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^稍快" c2 e2 cB B4 | G2 A2 B2 !breath!!fermata!c4 | G2 c2 c2 B4 | B2 c2 B2 G3 E | %4
+ F2 G2 G2 !breath!C4 | F2 c2 c2 B4 | B2 c2 GF !breath!E4 | G2 B2 BG F4 | F2 G2 C2 !breath!C4 | %9
+ c2 e2 ec B4 | G2 A2 B2 !breath!!fermata!c4 | G2 c2 c2 B4 | B2 c2 B2 G3 E | F2 G2 G2 C4 |] %14
+

@@ -1,0 +1,17 @@
+%Mode:Amin
+%Pitch:easy
+%Interval:medium
+%Rhythm:easy
+%Measures:13
+%end
+X:1
+T:47
+L:1/8
+Q:1/4=66
+M:3/8
+K:Amin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ EAB/d/ | !fermata!e2 e/!breath!^f/ |: edB | Bdd/e/ | ee/d/B/d/ | d/B/ B2 | EEE | AB/d/!breath!A | %8
+ Ad>e | ee/d/B/A/ | Bd/e/B/A/ | A A2 | A3 :| %13
+

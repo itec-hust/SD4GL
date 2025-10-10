@@ -1,0 +1,17 @@
+%Mode:D
+%Pitch:easy
+%Interval:hard
+%Rhythm:easy
+%Measures:8
+%end
+X:1
+T:46
+L:1/8
+Q:1/4=100
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ A2 f>f d2 A2 | G2 F/G/A/B/ A4 | A2 d2 d c2 d | e/d/c/B/ cd e4 | f2 (3f!^!fe d2 A2 | F2 c>^A B4 | %6
+ Ee^de f e3 | =d2 Ae d4 |] %8
+

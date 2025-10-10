@@ -1,0 +1,16 @@
+%Mode:C
+%Pitch:hard
+%Interval:hard
+%Rhythm:easy
+%Measures:12
+%end
+X:1
+T:57
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^坚决 果断 有力" c>d Gc | G/A/G/F/ F2 | G>A GF | CE/D/ C2 | G>F EF | GG/c/ G2 |1 G/G/c/c/ dG | c4 :|2 %8
+ fe/f/ g/f/e/d/ | c4 | dG cd/G/ | c4 |] %12
+

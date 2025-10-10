@@ -1,0 +1,10 @@
+X:1
+T:18
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ (ccdc B A3) | (ccAG F G3) | (G !fermata!A3 cAGF | AGF_E/C/ D D3) | (cBAG G F3) | (AGF_E D C3) | %6
+ (F_EGF E D3) | (FFF_E D D3) |] %8
+

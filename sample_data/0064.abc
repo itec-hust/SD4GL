@@ -1,0 +1,11 @@
+X:1
+T:64
+L:1/8
+Q:1/4=96
+M:2/4
+K:F#min
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Allegro  moderato" c2 Bc | F c3 | e2 cB | A !breath!F3 | F2 B2 | AB F2 | A3 c | Bc A2 | %8
+ !breath!F4 | c2 Bc | F c3 | e2 cB | A F3 | F2 B2 | F2 A2 | c2 Ac | A F3 | B2 A2 | A !fermata!F3 |] %19
+

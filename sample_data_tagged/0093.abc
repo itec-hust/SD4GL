@@ -1,0 +1,16 @@
+%Mode:Emin
+%Pitch:medium
+%Interval:hard
+%Rhythm:medium
+%Measures:12
+%end
+X:1
+T:93
+L:1/8
+M:2/4
+K:Emin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!f! B>d BE | G3 E | B>d BE/D/ | B,>D B,2 | D/B,D/ E2 | GE/d/ B2 | EB/d/ BE | G2 EB | A>G A2 | %9
+ B>d BE | G3 e/d/ | B4 |] %12
+

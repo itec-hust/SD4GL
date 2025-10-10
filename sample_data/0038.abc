@@ -1,0 +1,11 @@
+X:1
+T:38
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!mp! (D | B2 B Bcd | d3 F2) (D | AAA ABc | B3) z3 | (BBB Bcd | d3 E2) (E | AEF G2 G/F/ | %8
+ F3) z z (d | dAA BAB | c3 e2) (A | d2 A BAB | c3) z z (c | c2 c edc | B2 c B2) (B | B2 A dcB | %16
+ A3) z z (D | B2 B Bcd | d3- d3- | d3) (F2 ^G | A2 A c2 B | G3) z2 x |] %22
+

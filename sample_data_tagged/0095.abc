@@ -1,0 +1,16 @@
+%Mode:F#min
+%Pitch:medium
+%Interval:medium
+%Rhythm:hard
+%Measures:10
+%end
+X:1
+T:95
+L:1/8
+M:2/4
+K:F#min
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!mp! z!p!!<(! c!<)! c^B | c>e c>c | F2 Bc | B/G/F/- F/GE | CC z C |!<(! E!<)!G c>e | BB/G/ F>G | %7
+ FF FC- | C/E/F- F/F/F- | F z z2 |] %10
+

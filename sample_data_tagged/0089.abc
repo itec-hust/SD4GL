@@ -1,0 +1,17 @@
+%Mode:Eb
+%Pitch:easy
+%Interval:easy
+%Rhythm:easy
+%Measures:16
+%end
+X:1
+T:89
+L:1/8
+Q:1/4=52
+M:6/8
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Lento" GGG A2 A | BAG FGA | BEA G2 F | E3- E2 z | GGG A2 A | BAG FGA | BEA G2 F | E3- E z B | %8
+ BGB e2 B | BGB B2 B | c2 B BAG | G3 F2 z | GGG A2 A | BAG FGA | BEA G2 F | E3- E2 z |] %16
+

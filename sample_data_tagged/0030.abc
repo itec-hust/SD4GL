@@ -1,0 +1,17 @@
+%Mode:D
+%Pitch:medium
+%Interval:medium
+%Rhythm:medium
+%Measures:8
+%end
+X:1
+T:30
+L:1/8
+Q:1/4=100
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ D2 F>B A3 B | d>d FB A4 | FA EF Fd BA | D>B, FD E4 | F G2 ^G2 A2 B | dd ec B4 | %6
+ (3A^GA F2 Bd/c/ B2 | B A2 E/F/ D4 |] %8
+

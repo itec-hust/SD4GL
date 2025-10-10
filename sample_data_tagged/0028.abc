@@ -1,0 +1,20 @@
+%Mode:Ebmin
+%Pitch:medium
+%Interval:easy
+%Rhythm:hard
+%Measures:17
+%end
+X:1
+T:28
+L:1/8
+M:6/8
+K:Ebmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ (^A/=B/ ^c2- c/B/).A.^G | ^A/(^G/ ^F2- F/^E/).F.G | (^A/=B/ ^c2- c/B/).A.^G | %3
+ (^F/^E/ ^D2- D/)E/.F.^A | (^G/^A/ G2- G/^F/).G.F | (^E/^F/ ^D2- D/^C/).D.F | %6
+!<(! (^G/^A/ G2-!<)! G/^F/).^E{G} (.F | (^D/^C/) D2- D/)!>(!^E/.^F.^G!>)! | %8
+ (^A/=B/ ^c2- c/B/).A.^G | (^A/^G/ ^F2- F/^E/).F.G | (^A/=B/ ^c2- c/B/).A.^G | %11
+!<(! (^F/^E/ ^D2-!<)! D/)E/.F.^A |!p! ^d/(^e/ d2- d/^c/.d).c | (^B/^c/ ^A2- A/^G/).A.c | %14
+ ^d/(^e/ d2- d/)^c/.^B{d} .c | (^A/^B/) A2 A/^G/^F{^E!>!F} (.E | (^F/^E/)^D) z z2 z |] %17
+

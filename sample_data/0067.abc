@@ -1,0 +1,12 @@
+X:1
+T:67
+L:1/8
+Q:1/4=66
+M:4/4
+K:Gmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Andante  epressivo" D | d2 D>D c2 z D | c2 D>D B2 z B | A2 c>B AG FG | D6 z D | e2 e>e d2 z D | %6
+ c2 c>c B3 B | A>A B>c d2 A>D | G6 G2 |: e3 e f3 e/f/ | ed- d4 z D | c3 c d3 c/d/ | c2 B4 z G | %13
+ e2 e>e d2 z D | c2 c>c B3 B | A2 B>c d2 A3/2 D/ |1 G6 z D :|2 G6 z2 |] %18
+

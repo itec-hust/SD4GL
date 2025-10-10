@@ -1,0 +1,11 @@
+X:1
+T:71
+L:1/8
+M:4/4
+K:Bmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ B,C | D2 F2 F2 ^G^A | B2 F2 F2 d2 | c2 B2 dc B^A | B4 z2 B,C | D2 F2 F2 ^G^A | B2 F2 F2 d2 | %7
+ c2 B2 dc B^A | B6 de | f2 d2 d2 ef | d2 A2 A2 Bc | d2 B2 B2 cd | c2 F2 F2 DE | FE DE FE DE | %14
+ FE FG F2 d2 | c2 B2 dc B^A | B4 z2 |] %17
+

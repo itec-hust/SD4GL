@@ -1,0 +1,31 @@
+%Mode:Emin
+%Pitch:medium
+%Interval:medium
+%Rhythm:medium
+%Measures:48
+%end
+X:1
+T:39
+L:1/8
+Q:1/4=120
+M:3/4
+K:Emin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!p!"^Allegro  Moderato" G2- GB AF | G4 z2 | B2- Bd cA | B4 z2 | z (d cB A)G | F2- FA GB | %6
+w: ||||||
+ A2- AB cB | BA A2 z2 |!f! G3 (B AF) | G4 z2 | B3 (d c)A | B4 z2 | z (d^cdAF) | (BABGFE) | %14
+w: ||||||||
+ AG F2 E2 | F3 D AF | G3 E FG | F3 D AF | E3 G ^CE | D4!mf! z2 | D3 F E^C | D4 z2 | F3 A GE | %23
+w: |||||||||
+ F4 z2 | z A cB AF | GF E2 z G | F3 A F^D |"_poco" E3 B BB | c3 A Bc | !breath!B3 G dB | %30
+w: ||||* un * cresc.|||
+!>(! e3 E AG!>)! | (GF) !breath!F2!p! D2 | B3 d cA | GB !breath!A2!mf! D2 | B3 d cA | %35
+w: |||||
+ GB !breath!A2 D2 | GF EG cB | AF dB AG |!f! ec B2 A2 | !breath!G3!mf! D BG | F3 c AF | %41
+w: ||||||
+ !breath!G3 d!<(! Bd!<)! | c2 B2 A2 | !breath!B3!p! D BG | F3 c AF | !breath!G3 d Bd | ec B2 A2 | %47
+w: ||||||
+ G4 z2 |] %48
+w: |
+

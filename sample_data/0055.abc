@@ -1,0 +1,12 @@
+X:1
+T:55
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!p!"^Moderato" c2 c2 B2 A2 |!>(! (A2!>)! G2) G2 z2 | A2 A2 G2 F2 |!>(! (F2!>)! E2) E2 z2 | %4
+ G2 A2 F2 F2 | E2 E2 !breath!E2 G2 | G2 A2 F2 G2 |!>(! (F2!>)! E2) E2 z2 | G2 A2 F2 F2 | %9
+ E2 G2 !breath!c2 G2 | A2 F2 D2 B,2 |!>(! (D2!>)! C2) C2 z2 |] %12
+

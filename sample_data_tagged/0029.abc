@@ -1,0 +1,19 @@
+%Mode:C
+%Pitch:medium
+%Interval:medium
+%Rhythm:easy
+%Measures:21
+%end
+X:1
+T:29
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Moderato" C2 D2 E2 F2 | G2 F2 E2 D2 | !breath!C2 E2 G2 c2 | B2 G2 A2 D2 | !breath!G2 A2 B2 c2 | %5
+ d2 c2 B2 A2 | !breath!G2 A2 F2 G2 | E2 F2 D2 G2 | !breath!C2 D2 E2 F2 | G2 F2 E2 D2 | %10
+ !breath!C2 c2 B2 d2 | c2 A2 B2 e2 | !breath!A2 E2 A2 G2 | F2 D2 G2 F2 | !breath!E2 c2 A2 F2 | %15
+ E2 G2 F2 D2 | !breath!C2 D2 E2 F2 | G2 F2 E2 D2 | !breath!C2 E2 G2 c2 | C2 E2 G2 c2 | C4 z4 |] %21
+

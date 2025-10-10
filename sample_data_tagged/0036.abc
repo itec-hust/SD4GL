@@ -1,0 +1,15 @@
+%Mode:G
+%Pitch:easy
+%Interval:hard
+%Rhythm:hard
+%Measures:8
+%end
+X:1
+T:36
+L:1/8
+M:3/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ d>ed/B/ | d3 | ee/>d/B/A/ | G3 | E>dB/G/ | A2 B | G/>D/E/B/A/B/ | E3 |] %8
+

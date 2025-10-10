@@ -1,0 +1,16 @@
+%Mode:Amin
+%Pitch:easy
+%Interval:hard
+%Rhythm:easy
+%Measures:10
+%end
+X:1
+T:82
+L:1/8
+M:3/4
+K:Amin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ AE AB cA | EA ^GB E2 | AE AB cA | EA ^GB E2 | Ae dc BE | A>c BE B2 | Ae dc BE | A>c BE B2 | %8
+ AB cd e>d | cB AE A2 |] %10
+

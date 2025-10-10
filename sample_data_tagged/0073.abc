@@ -1,0 +1,21 @@
+%Mode:D
+%Pitch:medium
+%Interval:easy
+%Rhythm:hard
+%Measures:24
+%end
+X:1
+T:73
+L:1/8
+Q:1/4=88
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Moderato" F2- F>A D2 E2 | F>G A>F !breath!B4 | A2- A/F/E/D/ C2 D2 |!>(! F4 E2!>)! z2 | %4
+ F2- F>A D2 E2 | F>G A>F !>!!breath!B4 | A2- A/B/c/d/ F2 E2 |!>(! E4 D2!>)! z2 | %8
+!p! A2- A>^G A2 c2 | B2- B>^G E2 z2 | B2- B>^A B2 d2 | c2- c>e A2 z2 | e6 d/c/B/A/ | %13
+!<(! !breath!F6!<)! ^GA | E2 !>!e2- e/^d/e/d/ e/=d/c/B/ | A4 z4 |!f! F2- F>A D2 E2 | %17
+ F>G A>F !>!!breath!B4 | A2- A/F/E/D/ C2 D2 |!>(! F4 E2 z2!>)! | F2- F>A D2 E2 | %21
+ F>G A>F !>!!breath!B4 | A2- A/B/c/d/ F2 E2 |!>(! E4 D2!>)! |] %24
+

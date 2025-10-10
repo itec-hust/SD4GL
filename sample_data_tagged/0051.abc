@@ -1,0 +1,16 @@
+%Mode:C
+%Pitch:medium
+%Interval:easy
+%Rhythm:medium
+%Measures:16
+%end
+X:1
+T:51
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ G2 A2 G2 | c4 d2 | e2 d2 c2 | G6 | A2 G2 E2 | G2 FE D2 | F3 E C2 | D6 | CD EF GA | B2 A2 G2 | %10
+ c2 B2 c2 | d6 | e2 d2 c2 | G2 A2 G2 | B2 G2 d2 | c6 |] %16
+

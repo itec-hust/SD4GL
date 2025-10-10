@@ -1,0 +1,17 @@
+%Mode:C
+%Pitch:medium
+%Interval:easy
+%Rhythm:easy
+%Measures:8
+%end
+X:1
+T:25
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ E,/F,/G, F,/E,/D, C, z | B,,/C,/D, C,/B,,/A,, G,, z | G,,/C,/B,, A,,/D,/C, B,,/E,/D, | %3
+ C,/F,/E, D,2 G, z | A,/B,/C C/B,/A, G, z | F,/G,/A, G,/F,/E, D, z | D,/G,/F, C,/F,/E, B,,/E,/D, | %7
+ A,,/D,/A,, G,,2 C, z |] %8
+

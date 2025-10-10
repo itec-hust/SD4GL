@@ -1,0 +1,11 @@
+X:1
+T:4
+L:1/8
+Q:1/4=66
+M:3/4
+K:Emin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Andante"!mp! (BE AG FE | E2 ^D4) |!mf! (cF BA GF | (3FGA G4) | z!f! (B ed cB) | z (^G Ac B=G) | %6
+ (F B2!>(! ^D- (3DGF | E6)!>)! |] %8
+

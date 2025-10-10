@@ -1,0 +1,18 @@
+%Mode:F
+%Pitch:hard
+%Interval:easy
+%Rhythm:medium
+%Measures:8
+%end
+X:1
+T:1
+L:1/8
+Q:1/4=108
+M:6/8
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!mf!"^Allegretto" Fz(G/A/ B)zG/d/ | c2 B/c/ A z (F/G/ | A) z (E/F/ E) z C/c/ | %3
+!<(! (_dc>c!<)! =B<c-c) |!f! f z (e/=d/ c) z!>(! (3(_d/c/_B/ | A>!>)!^FG/A/ B3) | %6
+ C z (B,/_D/ C) z E/B/ | (A2 (3A/_A/G/ F3) |] %8
+

@@ -1,0 +1,16 @@
+%Mode:Emin
+%Pitch:medium
+%Interval:medium
+%Rhythm:easy
+%Measures:8
+%end
+X:1
+T:77
+L:1/8
+Q:1/4=66
+M:2/4
+K:Emin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^山歌风" A2 !fermata!B2 | eB ^c/B/A | FA FE |{E^C} B,4 | A A2 B | ^cB/A/ FE | AF FE | B,4 |] %8
+

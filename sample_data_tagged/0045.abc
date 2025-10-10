@@ -1,0 +1,19 @@
+%Mode:C#min
+%Pitch:hard
+%Interval:easy
+%Rhythm:hard
+%Measures:30
+%end
+X:1
+T:45
+L:1/8
+M:6/8
+K:C#min
+V:1 treble nm="Piano" snm="Pno."
+V:1
+{/B} G>GG d !fermata!c2 | cce- eAG- | Gdc- cEF- | FAG F2 ^E | F3- !breath!F cB | FAB- B^EF- | %6
+ FAB C=EG | D C2- C3 | (2:3:2B,C DFG | (2:3:2BA GFE | (2:3:2CE B, !breath!C2 | (2:3:2B,C DFG | %12
+ (2:3:2BA (5:4:5G/F/E/C/F/ z | CB,A, F/D/ !fermata!C2 | EE z z DC | EE z z B,/D/C | (2:3:2EF GcB | %17
+ GFE DEC | DEC (2:3:2DC | D3 C3 | G3- !breath!G3 | G>GG d !fermata!c2 | cce- eAG- | Gdc cEF- | %24
+ FAG F2 ^E | F3- F cB | FAB B^EF- | FAB C=EG | D C2- C3 | D3 C3 |] %30
+

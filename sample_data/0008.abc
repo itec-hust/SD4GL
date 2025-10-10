@@ -1,0 +1,11 @@
+X:1
+T:8
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ FG | A3 B B2 c2 | c4 A2 c2 | B3 A B2 G2 | A4 z2 FG | A3 B B2 c2 | c4 A2 c2 | B3 A B2 G2 | %8
+ F4 z2 cc | f3 e d2 c2 | c4 A2 c2 | B3 A B2 G2 | A4 z2 cc | f3 e d2 c2 | c4 A2 c2 | B3 A B2 G2 | %16
+ F6 z2 | c6 c2 | B4 G4 | F8 | G6 G2 | A4 z2 c2 | f3 e d2 c2 | c4 A2 c2 | B3 A B2 G2 | F6 z2 |] %26
+

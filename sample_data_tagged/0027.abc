@@ -1,0 +1,16 @@
+%Mode:G
+%Pitch:medium
+%Interval:easy
+%Rhythm:hard
+%Measures:8
+%end
+X:1
+T:27
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ (3dde (3dcB | (3AAd !breath!A2 | (3DGA (3GFE | (3DEB, !breath!D2 | (3DGA (3GFE | (3DDd (3cBA | %6
+ A/d/d/G/ A/G/F/E/ | DE/B,/ D2 |] %8
+

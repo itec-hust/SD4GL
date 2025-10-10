@@ -1,0 +1,14 @@
+X:1
+T:48
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+!f! z2 C2 _D2 | E3 F E2 | _D3 C B,2 | !>!C_B, C4- | C z C2 _D2 | EF EF EF | E_E _DC B,D | %7
+ !>!C_B, C4- | C z E2 F2 |!<(! G3!<)! G G2 | _A3 _B A2 |!>(!{G_A} !>!GF E4-!>)! | %12
+ E2 E2!<(! F2!<)! | G3 B _B2 | _A3 G A!>(!F!>)! | EF G4- | G3!p! G _AG |{FG} (FE) F4- | FF G_A GF | %19
+{E} E^D E4- | EE FG FE |{_EF} (E=D E4) | _D_E{DE} (DC =B,)D |{C_D} (C=B,) C4- | C3!p! G _AG | %25
+{FG} (FE F4-) | FF G_A GF |{EF} (E^D E4-) | EE FG FE |{_EF} (E=D E4) | _D_E{DE} (DC =B,)D | %31
+{C_D} (C=B, C4-) | C4- C z |!mf! c6 |] %34
+

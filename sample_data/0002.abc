@@ -1,0 +1,13 @@
+X:1
+T:2
+L:1/8
+Q:1/4=108
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Allegretto"!f! F.c.E.c !tenuto!D2 !tenuto!B2 | (A/B/c/d/ .c).A !tenuto!G2 .G z | %2
+ .F.c.E.c !tenuto!D2 !tenuto!B2 | (A/B/c/B/ .A).G !tenuto!F2 .F(F/G/ | %4
+!<(! A/B/c!<)! dE c!>(! F2) B/A/!>)! |!<(! (G/A/B B!<)!C A A2) (B/c/ | %6
+!f! d/e/f .e).d c.A !tenuto!F2 | .C.F.G.E F4 |] %8
+

@@ -1,0 +1,25 @@
+%Mode:Bbmin
+%Pitch:medium
+%Interval:easy
+%Rhythm:hard
+%Measures:73
+%end
+X:1
+T:20
+L:1/8
+M:3/4
+K:Bbmin
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ c2- c>dc>(=B | c>)A F2 z2 | c2- c>dc>f | f2 =e2 z2 | B2- B>cB>c | d4 c>B | A2- A>FA>F | c4 z2 | %8
+ c4 c>c | e4 f>e | A4 A>A | c4 c>c | B4 c>d | e2- e>fA>B | c4 d>B | A3 z c>B | =A4 B>c | d3 z d>d | %18
+ d4 e>d | _d2 z d _cA | _G3 F Ad | _c4 B2 | z B=AB_cB | e6 | z A=GABA | d3 e f_g | fe dc BA | %27
+ _G6- | G4{F_GAGFG} B>A | _G2 z2 z2 | z6 | z2 z B BA | A2 (3z AB (3cde | f2 z2 z2 | z6 | %35
+ z2 (3z EF (3=GAB | (3cd=d (3efe (3_dB=G | (3AEF (3=GAB (3cd=d | (3efe (3efe (3_dB=G | A2 z2 z2 | %40
+ z2 (3z cc (3c{e}dc | (3cBA (3A=GF{G} (3F=EF | =G2 z2 z2 | z2 z3/2 =B<cf/ | =e2 z2 z2 | %45
+ z3/2 =B/ c>Bc>f | =e6- | e2 c3/2 z/ c3/2 z/ | c2- c>dc>=B | c>A F2 z2 | c2- c>dc>f | f2 =e2 z2 | %52
+ B2- B>cB>c | d4 c>B | A2- A>B=G>A | F4 z2 | f4 d>B | =A4 B>d | =G2 c7/2 B/ | A>=G F>G A>B | %60
+ c>=d =e>f =G>A | F2 z2 z2 | z3/2 =d/ e>_g =A>c | B4 z2 | z3/2 _d/ B>=G =E>G | F4 z2 | %66
+ z3/2 E/ _G>=A c>E | =D>F B4 | z3/2 _D/ d3/2B =G=E/ | F3 =E FE | F=E (FE) FE | F6- | %72
+ !fermata!F4 z2 |] %73
+

@@ -1,0 +1,12 @@
+X:1
+T:86
+L:1/8
+Q:1/4=50
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Largo" CD/E/ C/B,/A,/G,/ | G E2 G | A>c A/G/F/E/ | G D3 | C/D/ G2 A | cB/A/ G2 | G/cG/ F/E/D/G/ | %7
+{/G} C4 | .C/.B,.C/ .D.D | G/A/F/E/{/G} D2 | .G/.F.G/ .A.A | c/>d/B/A/ G!breath!A | %12
+ c/c/c/G/ F/E/G/A/ | D3 G | A/c/A/G/ FE/D/ |{/G} C4 | C/>D/F/G/ D/C/B,/A,/ |{/C} G,4 |] %18
+

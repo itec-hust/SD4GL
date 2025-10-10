@@ -1,0 +1,17 @@
+%Mode:Eb
+%Pitch:medium
+%Interval:medium
+%Rhythm:easy
+%Measures:20
+%end
+X:1
+T:3
+L:1/8
+Q:1/4=108
+M:2/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^轻快地" c>e BG | c>e BG | F>G F/E/C | E4 | Ge cB | G>B cG | B4 | GB Bc | B4 | Ge cG | B4 | B B2 e | %12
+ cB BG | BF GB | E4 | EC BG | F/G/F/E/ F2 | GB BC | E>F D/C/B, | C4 |] %20
+
