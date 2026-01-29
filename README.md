@@ -1,5 +1,5 @@
 # SD4GL
-SD4GL: A Sight-Singing Scores Dataset for Score Generation with LLM 🎵
+SD4GL: A Sight-Singing Practice Score Dataset for Score Generation with LLMs 🎵
 
 This repository contains supporting materials for our submitted paper. The complete dataset will be released upon paper acceptance.
 
